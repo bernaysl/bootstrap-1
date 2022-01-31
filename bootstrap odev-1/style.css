@@ -1,0 +1,41 @@
+*{
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+    background-color: cover;
+}
+
+nav{
+    list-style: none;
+    background: #222831;
+}
+nav h1{
+    color: #f96d00;
+}
+nav li{
+    display: inline;
+    position: relative;
+}
+nav li a{
+    text-decoration: none;
+    margin: 5px;
+    color:rgb(168, 141, 141);
+}
+nav li a:hover{
+    color:#f96d00;
+}
+.giris{
+    list-style-position: inside;
+}
+button{
+    background-color:#222831;
+    color:white;
+}
+img{
+    size:cover;
+    width: 400px;
+    height: 300px;
+}
+.card{
+    margin:10px;
+}
